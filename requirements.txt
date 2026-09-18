@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+opencv-python-headless
+ultralytics
+gspread
+google-auth
+Pillow
